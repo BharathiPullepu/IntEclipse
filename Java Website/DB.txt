@@ -1,0 +1,1 @@
+ con = java.sql.DriverManager.getConnection("jdbc:mysql://essentialdb.chi7wi9tf9bd.ap-south-1.rds.amazonaws.com:3306/EssentialDB", "admin", "admin123"); 
